@@ -6,3 +6,8 @@
 #### Instrumentalização
 #### Catarse
 #### Prática Social Final
+
+### Papeis do professor
+~~~~
+ls
+~~~~
